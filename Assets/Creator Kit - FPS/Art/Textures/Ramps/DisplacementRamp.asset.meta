@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/FleshPit/Inventory/MyInventory.asset.meta
+guid: 62aba7f4da015274b9dfc50caef2d427
+========
+guid: d5540cbcd59304a1e9be960dcdf78d68
+>>>>>>>> master:Assets/Creator Kit - FPS/Art/Textures/Ramps/DisplacementRamp.asset.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

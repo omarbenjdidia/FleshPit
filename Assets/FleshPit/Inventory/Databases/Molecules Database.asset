@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 528b587c9ac0ca84199461489d117448, type: 3}
+  m_Name: Molecules Database
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: ca93bf86d92bafd4abe5f810781e5d3c, type: 2}
+  - {fileID: 11400000, guid: 28666d3db6399ac479d278d3650e327f, type: 2}
+  - {fileID: 11400000, guid: a8517eec12f3a054e967bbb1403b49bd, type: 2}
+  - {fileID: 11400000, guid: 889d06f70c22279498af1789e60b3e7f, type: 2}

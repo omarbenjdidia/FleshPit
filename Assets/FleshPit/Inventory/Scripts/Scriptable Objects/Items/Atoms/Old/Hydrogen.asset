@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0a80cafbc005a42a6800a980e4e414, type: 3}
+  m_Name: Hydrogen
+  m_EditorClassIdentifier: 
+  Id: 201
+  uiDisplay: {fileID: 21300000, guid: 84487d73ca4b791498332d8f6858417f, type: 3}
+  type: 2
+  description: Hydrogen is like a little magician that can make big things happen.
+    It's in the water we drink and even the stars up in the sky. So let's give a
+    round of applause for hydrogen, the little element that could!
+  buffs: []
+  gameObject3D: {fileID: 6744193951099175069, guid: 695a9cbf3e599ff43a2235a29fe01013,
+    type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  composition: 0
+  atoms: []

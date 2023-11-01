@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29062c6028858244daa2f9fceec9ec16, type: 3}
+  m_Name: MyInventory
+  m_EditorClassIdentifier: 
+  savePath: /inventory1.save
+  database: {fileID: 11400000, guid: ca58016f06255244db390edd3a8111bf, type: 2}
+  Container:
+    Items:
+    - ID: 100
+      item: {fileID: 11400000, guid: ca93bf86d92bafd4abe5f810781e5d3c, type: 2}
+      amount: 37
+    - ID: 101
+      item: {fileID: 11400000, guid: 889d06f70c22279498af1789e60b3e7f, type: 2}
+      amount: 558
+    - ID: 200
+      item: {fileID: 11400000, guid: aac39eafdf6b09a429e368688b950138, type: 2}
+      amount: 999
+    - ID: 201
+      item: {fileID: 11400000, guid: d5255c9ef3790284db6eb18744c741a1, type: 2}
+      amount: 999
+    - ID: 7654
+      item: {fileID: 11400000, guid: 7d4cf8c257c76d34eb93382ca9bf2543, type: 2}
+      amount: 999
+    - ID: 77
+      item: {fileID: 11400000, guid: 3a22d3079663ae6439f086be6e07591f, type: 2}
+      amount: 999
+    - ID: 666
+      item: {fileID: 11400000, guid: 28666d3db6399ac479d278d3650e327f, type: 2}
+      amount: 73
+    - ID: 55
+      item: {fileID: 11400000, guid: 0e37ddfb2c270764e9da26e3dc403dc3, type: 2}
+      amount: 999
+    - ID: 454
+      item: {fileID: 11400000, guid: a8517eec12f3a054e967bbb1403b49bd, type: 2}
+      amount: 102
+    - ID: 3643
+      item: {fileID: 11400000, guid: 5af478db924e7b34aa99389fd11706f6, type: 2}
+      amount: 999
+    - ID: 3643
+      item: {fileID: 11400000, guid: ad34409ee1aa3df478094e8b3c72e24e, type: 2}
+      amount: 69
+    - ID: 3643
+      item: {fileID: 11400000, guid: b25cf13923b75d44faeb39967888dca5, type: 2}
+      amount: 69
+    - ID: 3643
+      item: {fileID: 11400000, guid: a0a36d79e6f4e2445a817b8b4898d4d1, type: 2}
+      amount: 69

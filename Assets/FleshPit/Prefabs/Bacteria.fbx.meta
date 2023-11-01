@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 6cc9a09c0dba9f44292324192ecb1929
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Bacteria(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bacteria1
+      parentName: Bacteria(Clone)
+      position: {x: -0, y: 0.040058136, z: 0}
+      rotation: {x: 0, y: -0.7011389, z: -0, w: 0.7130248}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Bacteria(Clone)
+      position: {x: 0, y: 1.0904769, z: -0.06937593}
+      rotation: {x: 0.0059132446, y: 1.1167686e-16, z: -1.1167687e-16, w: 0.99998254}
+      scale: {x: 100.73533, y: 100.73533, z: 100.73533}
+    - name: Sharkthroat
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SharkHead
+      parentName: Sharkthroat
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.08037306, y: 0.00000012164105, z: -0.0000000065957053, w: 0.99676484}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: SharkHead_end
+      parentName: SharkHead
+      position: {x: -0, y: 0.0066328635, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SharkJaw
+      parentName: Sharkthroat
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.00000004390141, y: 0.9748819, z: 0.22272247, w: -0.00000014661867}
+      scale: {x: 0.99999994, y: 0.9999996, z: 1}
+    - name: SharkJaw_end
+      parentName: SharkJaw
+      position: {x: -0, y: 0.00550956, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Righhfena1
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.020272298, y: 0.060728084, z: 0.9464556, w: -0.31642205}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Rightfena2
+      parentName: Righhfena1
+      position: {x: 3.5780431e-10, y: 0.0058165737, z: 7.4505804e-11}
+      rotation: {x: -0.11264596, y: -0.037075605, z: -0.18897226, w: 0.9747952}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rightfena3
+      parentName: Rightfena2
+      position: {x: 6.273331e-10, y: 0.0027088758, z: 5.5879353e-11}
+      rotation: {x: -0.18640922, y: 0.009543519, z: -0.049156167, w: 0.98119533}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Rightfena3_end
+      parentName: Rightfena3
+      position: {x: -0, y: 0.0032162133, z: 0}
+      rotation: {x: -0.1300931, y: -0.08079849, z: 0.17942114, w: 0.9717795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leftfena1
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.019905893, y: 0.06110212, z: 0.9487119, w: 0.3095417}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: Leftfena2
+      parentName: Leftfena1
+      position: {x: -1.2671535e-10, y: 0.0057981033, z: 0}
+      rotation: {x: -0.11135909, y: 0.03780502, z: 0.1814142, w: 0.9763498}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999999}
+    - name: Leftfena3
+      parentName: Leftfena2
+      position: {x: 3.6630807e-10, y: 0.002750376, z: 4.6566126e-11}
+      rotation: {x: -0.189038, y: -0.013474651, z: 0.053647783, w: 0.9804107}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Leftfena3_end
+      parentName: Leftfena3
+      position: {x: -0, y: 0.0032239582, z: 0}
+      rotation: {x: -0.12831911, y: 0.08450144, z: -0.18125421, w: 0.9713602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sharktail0
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0000008072961, y: -0.7003127, z: 0.71383625, w: -0.000000887967}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000002}
+    - name: Sharktail1
+      parentName: Sharktail0
+      position: {x: 1.7763568e-17, y: 0.008893283, z: 1.862646e-11}
+      rotation: {x: -0.5370296, y: 0.00000040788387, z: 0.0000010369735, w: 0.8435634}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Sharktail2
+      parentName: Sharktail1
+      position: {x: 2.7755575e-19, y: 0.008244941, z: -4.6562177e-12}
+      rotation: {x: 0.000000040496467, y: 0.9997987, z: -0.020063087, w: -0.0000033304361}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000002}
+    - name: Sharktail3
+      parentName: Sharktail2
+      position: {x: 1.4210854e-16, y: 0.008966296, z: 3.2299162e-15}
+      rotation: {x: 0.01684905, y: -0.0000022670242, z: 0.000000052082903, w: 0.99985814}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: Sharktail4
+      parentName: Sharktail3
+      position: {x: -6.883383e-17, y: 0.0056447345, z: -2.537848e-10}
+      rotation: {x: -0.010301714, y: -0.19627307, z: -0.4274873, w: 0.8823976}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: Sharktail4_end
+      parentName: Sharktail4
+      position: {x: 0.001451426, y: 0.0042042504, z: -0.0018711926}
+      rotation: {x: -0, y: -0, z: 4.4408916e-16, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

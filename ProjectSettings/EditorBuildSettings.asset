@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FleshPit/Scenes/mainmenufiras.unity
+    guid: 8dde000cc324e5b47ba08ac3e9870b7c
+  - enabled: 1
+    path: Assets/FleshPit/Scenes/selectmap.unity
+    guid: 3bd184f53f84a5e47b465793eeaaffab
+  - enabled: 1
+    path: Assets/FleshPit/Scenes/Stomach13.unity
+    guid: edad8d1c8ccf8804eba0096adf9905ba
+  - enabled: 1
+    path: Assets/FleshPit/Scenes/Brain Finale.unity
+    guid: 21b9bf061e1d97c4d9a9319a23101533
+  - enabled: 1
+    path: Assets/FleshPit/Scenes/Heart Finale.unity
+    guid: 34f05adced913754f86779fe9efe8c84
+  m_configObjects: {}

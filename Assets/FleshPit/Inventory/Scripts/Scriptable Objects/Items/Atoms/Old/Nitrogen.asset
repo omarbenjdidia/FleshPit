@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0a80cafbc005a42a6800a980e4e414, type: 3}
+  m_Name: Nitrogen
+  m_EditorClassIdentifier: 
+  Id: 203
+  uiDisplay: {fileID: 0}
+  type: 2
+  description: Nitrogen is like a little artist that loves to paint the sky with
+    beautiful colors. It's in the air we breathe and the food we eat. So let's give
+    a standing ovation to nitrogen, the artist that makes our world so beautiful!
+  buffs: []
+  gameObject3D: {fileID: 6744193951099175069, guid: 695a9cbf3e599ff43a2235a29fe01013,
+    type: 3}
+  color: {r: 0, g: 0.015245438, b: 1, a: 0.70980394}
+  composition: 0
+  atoms: []
